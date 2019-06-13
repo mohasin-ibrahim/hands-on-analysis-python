@@ -15,6 +15,7 @@ f = '../data/census_data.csv'
 
 # look at the first 5 lines
 
+print("hi this sample to check git pushs")
 
 
 
